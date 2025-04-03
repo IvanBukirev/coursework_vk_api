@@ -32,4 +32,3 @@ Thumbs.db
 # Другие файлы
 *.egg
 *.egg-info/
-main.py
