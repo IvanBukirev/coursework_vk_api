@@ -1,4 +1,13 @@
 import requests as rq
 
-rq=rq.get('https://api.vk.com')
-print(rq.json())
+class Vk:
+    pass
+
+class YD:
+    pass
+
+class GD:
+    pass
+
+if __name__ == '__main__':
+    pass
