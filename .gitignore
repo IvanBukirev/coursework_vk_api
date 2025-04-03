@@ -1,0 +1,35 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite3
+
+# Папки и файлы PyCharm
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Среда виртуального окружения
+venv/
+env/
+ENV/
+.venv/
+*.egg-info/
+
+# Данные временных файлов
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Другие файлы
+*.egg
+*.egg-info/
+main.py
