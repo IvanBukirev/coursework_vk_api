@@ -31,6 +31,6 @@ Thumbs.db
 
 # Другие файлы
 *.egg
-*.egg-info/
+
 
 settings.ini
